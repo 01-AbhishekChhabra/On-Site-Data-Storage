@@ -1,0 +1,19 @@
+ul#menu li
+{
+    float: left;
+    margin: 4px;
+}
+.background{background:"peterjoseph_landscape1-1455x970.jpg";
+margin:0 0 -50px 0;}
+.circle{border-radius:30px;
+margin-bottom: 40px;
+width:100px;}
+
+
+.button-collapse{font-size: 2em;
+text-decoration: none;
+background-color: #333300;
+color:white;}
+
+
+///***carousel****////////////

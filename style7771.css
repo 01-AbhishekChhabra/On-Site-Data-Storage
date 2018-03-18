@@ -1,0 +1,132 @@
+
+
+
+
+/*-------------------nav-------------------*/
+
+
+
+nav {
+  background-color:  #333300;
+  box-shadow: 0 5px 15px #555, 0 10px 25px #888888;
+height:75px;
+}
+
+nav .brand-logo {
+  position: fixed;
+  top: 5px;
+  left: 40px;
+  margin:0 17px 0 0;
+}
+
+.brand-logo img {
+  width: 60px;
+}
+
+.tab1 {
+  background-color:  transparent;
+
+  width: auto;
+
+  text-align:center;
+  margin-right: 30px;
+}
+.space
+{
+  margin-left:900px;
+}
+
+.tab1 li.tab a {
+  color: #fff;
+  padding-left: 50 px;
+}
+
+
+.tab1 li.tabs a:hover {
+  color:  #fff;
+}
+
+.tabs .indicator {
+  background-color: #444;
+  height: 4px;
+}
+
+
+
+/*-------------------body-------------------*/
+
+
+.bdy {
+  margin-top: 5px;
+}
+
+.font-aw {
+  font-family: 'Monoton', cursive;
+  font-size: 60px;
+}
+
+
+
+/*-------------------section 1-------------------*/
+
+.jumb {
+  padding: 50px 60px;
+}
+
+.jumb-title {
+  text-align: center;
+  padding: 10px 0;
+}
+
+.jumb-subtitle {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  font-size: 40px;
+  padding: 10px 0;
+}
+
+.jumb-content {
+  font-size: 20px;
+  text-align: center;
+}
+
+
+
+
+
+.full-width {
+  margin-top: 200px;
+  width: 100%;
+  /*height: 400px;*/
+}
+
+.full-width img {
+  width: 100%;
+  padding: 0 10%;
+}
+
+.parallax-container {
+  height: 750px;
+}
+
+
+#con {
+  overflow: hidden;
+}
+
+
+
+.logo2 {
+  position: absolute;
+  top: 5px;
+  left: 40px;
+  z-index: 2;
+}
+
+.logo2 img {
+  width: 60px;
+}
+.d5{text-align: center;}
+
+
+.flex-item2{font-family: 'Raleway', sans-serif;}
